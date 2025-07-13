@@ -3,22 +3,6 @@ import { BrowserRouter as Router, Routes, Route, useNavigate, useParams, Link } 
 import { Button } from '@/components/ui/button.jsx'
 import './App.css'
 
-// Importando as imagens das categorias
-import logomarca from './assets/logomarca.jpeg'
-import lancamentos from './assets/lancamentos.png'
-import caixaDeIdeias from './assets/caixa-de-ideias.png'
-import espiritualidade from './assets/espiritualidade.png'
-import mapaDaMina from './assets/mapa-da-mina.png'
-import menteResiliente from './assets/mente-resiliente.png'
-import petFriendly from './assets/pet-friendly.png'
-import rebornLovers from './assets/reborn-lovers.png'
-import saudeENutricao from './assets/saude-e-nutricao.png'
-import divertidamente from './assets/zona-de-riso.png'
-import fitness from './assets/fitness.png'
-import arquivoX from './assets/arquivo-x.png'
-import tecnologia from './assets/tecnologia.png'
-import pocket from './assets/pocket.png'
-
 // Importando os dados dos livros
 import booksData from './books_data.json'
 
