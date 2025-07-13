@@ -161,7 +161,7 @@ function HomePage() {
         <div className="max-w-6xl mx-auto text-center">
           <div className="flex justify-center mb-4">
             <img 
-              src={logomarca} 
+              src="/assets/logomarca.jpeg" 
               alt="Essência Vital" 
               className="h-24 w-24 rounded-full object-cover shadow-lg"
             />
