@@ -21,12 +21,6 @@ import pocket from './assets/pocket.png'
 // Importando os dados dos livros
 import booksData from './books_data.json'
 
-// Importando as capas dos livros
-import CapaDacamaaosucesso from './assets/CapaDacamaaosucesso.png'
-import CapaResistenciaaInsulina from './assets/CapaResistênciaaInsulina.png'
-import Capa5rituaismatinaisparaficarrico from './assets/Capa5rituaismatinaisparaficarrico.png'
-import CapaDesperteseuPotencial from './assets/CapaDesperteseuPotencial.png'
-
 // Importando os ícones da seção de valores
 import iconeConteudoExclusivo from './assets/icone-conteudo-exclusivo.png'
 import iconeAtendimentoPersonalizado from './assets/icone-atendimento-personalizado.png'
@@ -44,11 +38,18 @@ import PrivacyPolicyPage from './PrivacyPolicyPage.jsx'
 // Importando o componente ScrollToTop
 import ScrollToTop from './components/ScrollToTop.jsx'
 
-const bookCovers = {
-  "Da Cama ao Sucesso: Como começar o dia com Energia e Clareza": CapaDacamaaosucesso,
-  "Resistência à Insulina": CapaResistenciaaInsulina,
-  "5 Rituais Matinais para Ficar Rico": Capa5rituaismatinaisparaficarrico,
-  "Desperte Seu Potencial: Um Guia de Transformação Pessoal": CapaDesperteseuPotencial,
+const bookCovers = (title) => {
+  const normalizedTitle = title
+    .toLowerCase()
+    .replace(/[áàãâä]/g, 'a')
+    .replace(/[éèêë]/g, 'e')
+    .replace(/[íìîï]/g, 'i')
+    .replace(/[óòõôö]/g, 'o')
+    .replace(/[úùûü]/g, 'u')
+    .replace(/[ç]/g, 'c')
+    .replace(/[:]/g, '')
+    .replace(/ /g, '-');
+  return `/assets/capas/${normalizedTitle}.png`;
 }
 
 const categories = [
@@ -407,9 +408,10 @@ function CategoryPage() {
                 <div key={book.title} className="bg-card rounded-xl shadow-lg p-6">
                   <div className="flex flex-col items-center text-center">
                     <img 
-                      src={bookCovers[book.title]} 
-                      alt={book.title}
+                      src={bookCovers(book.title)} 
+                      alt={`Capa do ebook ${book.title}`}
                       className="w-32 h-48 object-cover rounded-lg mb-4"
+                      loading="lazy"
                     />
                     <h3 className="text-2xl font-bold mb-2 text-card-foreground">
                       {book.title}
