@@ -278,7 +278,7 @@ function HomePage() {
               <img 
                 src={featuredCategory.image} 
                 alt={featuredCategory.title}
-                className="w-48 h-48 mx-auto mb-6 rounded-lg object-cover"
+                className="w-full h-full rounded-lg object-cover"
               />
               <h3 className="text-2xl font-bold mb-4 text-card-foreground">
                 {["Pet Friendly", "Reborn", "Pocket"].includes(featuredCategory.title) ? (
