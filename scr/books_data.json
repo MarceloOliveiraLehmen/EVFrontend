@@ -54,10 +54,22 @@
     "value": "R$ 15,90"
   },
   {
+    "category": "Carreira e Negócios",
+    "title": "Branding Pessoal",
+    "synopsis": "Branding pessoal é a chave para se destacar no mercado. Este e-book revela as 3 etapas essenciais para construir uma marca autêntica e poderosa, impulsionando sua carreira e negócios. Aprenda a definir, comunicar e fortalecer sua presença profissional com estratégias práticas e comprovadas.",
+    "value": "R$ 29,90"
+  },
+  {
     "category": "Pet Friendly",
     "title": "Petiscos Saudáveis para Pets",
     "synopsis": "20 receitas caseiras fáceis e nutritivas para seus companheiros de quatro patas. Feitas com ingredientes naturais e acessíveis, estas opções são ideais para cães de todos os tamanhos. Descubra alternativas econômicas e saudáveis aos petiscos industrializados.",
     "value": "R$ 25,90"
+  },
+  {
+    "category": "Policial e Investigação",
+    "title": "A Sombra do Investigador",
+    "synopsis": "No submundo da cidade, um detetive à beira do colapso mergulha em um caso onde nada é o que parece. Quando pistas somem misteriosamente e aliados se tornam inimigos, ele precisará navegar pelas sombras para desvendar um segredo que ameaça não só sua carreira, mas sua vida. Entre corrupção, mentiras e perseguições, quem está realmente puxando as cordas? Um thriller policial investigativo que vai te deixar preso até a última página.",
+    "value": "R$ 37,90"
   },
   {
     "category": "Saúde e Nutrição",
@@ -66,9 +78,21 @@
     "value": "R$ 39,90"
   },
   {
+    "category": "Reborn",
+    "title": "Meu Primeiro Reborn: Guia para Iniciantes",
+    "synopsis": "Descubra o fascinante universo dos bebês reborn com este guia completo para iniciantes. Aprenda a escolher seu primeiro bebê com segurança, identificando autenticidade, materiais de qualidade e valores justos. Explore os tipos, estilos e detalhes anatômicos que tornam essas bonecas hiper-realistas tão especiais. Evite falsificações e ciladas, garantindo uma compra confiável e cheia de emoção. Este eBook é seu companheiro essencial para uma jornada acolhedora e informada no mundo reborn.",
+    "value": "R$ 45,90"
+  },
+  {
     "category": "Divertidamente",
     "title": "Como fingir que esta tudo bem",
     "synopsis": "Se você tá lendo isso, é porque ainda tem 1% de bateria emocional. Ou porque a capa chamou sua atenção e você pensou: 'Olha aí, mais um e-book de zoeira que talvez mude minha vida sem querer.' Spoiler: talvez mude mesmo.",
+    "value": "R$ 29,90"
+  },
+  {
+    "category": "Curiosidades",
+    "title": "Sabedoria Inutil",
+    "synopsis": "Um mergulho divertido e inesperado em fatos curiosos, estranhos ou aparentemente irrelevantes que escondem um valor oculto. Neste pocket, você vai rir, refletir e talvez repensar o que realmente é útil. Afinal, quem decide o que vale a pena saber?",
     "value": "R$ 29,90"
   },
   {
@@ -76,6 +100,12 @@
     "title": "Guia do iniciante em vendas no WhatsApp",
     "synopsis": "Olá, seja bem-vindo a esse guia. Na verdade, esse é um pequeno checklist para quem deseja começar a vender atraves do whatsapp.",
     "value": "R$ 19,90"
+  },
+  {
+    "category": "Terror",
+    "title": "A Maldição do Quarto 13",
+    "synopsis": "Quarto 13 é sinônimo de pesadelo. Quando a jovem especialista em folclore Amanda aceita reformar o antigo hotel Angeles, sua curiosidade liberta horrores antigos. Todos os hóspedes desaparecem. E ela percebe tarde demais que o lugar ama enterrar segredos… e almas.",
+    "value": "R$ 47,90"
   },
   {
     "category": "Arquivo X",

@@ -8,13 +8,17 @@ import lancamentos from './assets/lancamentos.png'
 import caixaDeIdeias from './assets/caixa-de-ideias.png'
 import espiritualidade from './assets/espiritualidade.png'
 import mapaDaMina from './assets/mapa-da-mina.png'
+import carreiraENegocios from './assets/carreira-e-negocios.png'
 import menteResiliente from './assets/mente-resiliente.png'
 import petFriendly from './assets/pet-friendly.png'
+import curiosidades from './assets/curiosidades.png'
 import rebornLovers from './assets/reborn-lovers.png'
 import saudeENutricao from './assets/saude-e-nutricao.png'
 import divertidamente from './assets/zona-de-riso.png'
 import fitness from './assets/fitness.png'
 import arquivoX from './assets/arquivo-x.png'
+import terror from './assets/terror.png'
+import policial from './assets/policial.png'
 import tecnologia from './assets/tecnologia.png'
 import pocket from './assets/pocket.png'
 
@@ -79,6 +83,12 @@ const categories = [
     image: mapaDaMina
   },
   {
+    id: 'carreira-e-negocios',
+    title: 'Carreira e Negócios',
+    description: 'Sucesso Profissional',
+    image: carreiraENegocios
+  },
+  {
     id: 'mente-resiliente',
     title: 'Mente Resiliente',
     description: 'Psicologia e saúde mental',
@@ -89,6 +99,12 @@ const categories = [
     title: 'Pet Friendly',
     description: 'Animais de Estimação',
     image: petFriendly
+  },
+  {
+    id: 'curiosidades',
+    title: 'Curiosidades',
+    description: 'Fatos Fascinantes',
+    image: curiosidades
   },
   {
     id: 'reborn-lovers',
@@ -119,6 +135,18 @@ const categories = [
     title: 'Arquivo X',
     description: 'Mistérios e fenômenos inexplicáveis',
     image: arquivoX
+  },
+  {
+    id: 'terror',
+    title: 'Terror',
+    description: 'Medo Garantido',
+    image: terror
+  },
+  {
+    id: 'policial',
+    title: 'Policial e Investigação',
+    description: 'Desvendando Crimes e Suspense Investigativo',
+    image: policial
   },
   {
     id: 'tecnologia',
