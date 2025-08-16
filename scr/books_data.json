@@ -1,21 +1,33 @@
 [
   {
     "category": "Lançamentos",
-    "title": "Guia de Receitas Fitness",
-    "synopsis": "Descubra o sabor da alimentação saudável com o Guia de Receitas Fitness. Almoços nutritivos, jantares leves e receitas fit práticas que cabem na rotina. Ideal para quem busca saúde sem abrir mão do prazer de comer bem. Energia, sabor e equilíbrio em cada refeição. Cozinhe, transforme e evolua.",
-    "value": "R$ 49,90"
+    "title": "10 coisas que você usa errado até hoje",
+    "synopsis": "Você usa dezenas de objetos todos os dias — e provavelmente erra na maioria. Este livro revela 10 itens comuns cujo uso real é bem diferente do que você imagina. Descubra suas funções originais, entenda como foram deturpadas e aprenda, de uma vez, a usá-los direito.",
+    "value": "R$ 15,90"
   },
   {
     "category": "Lançamentos",
-    "title": "Os Segredos do Metaverso",
-    "synopsis": "Mergulhe em Os Segredos do Metaverso, uma jornada reveladora pelo universo digital que está moldando o futuro. Descubra como realidades virtuais, avatares e economias digitais estão transformando a forma como vivemos, trabalhamos e nos conectamos. Prepare-se para entender — e dominar — o próximo grande salto da humanidade.",
-    "value": "R$ 39,90"
+    "title": "Guia da Autoilusão Consciente",
+    "synopsis": "Você se engana para sobreviver, repetindo 'vai dar certo' mesmo sem ter certeza? Essa autoilusão consciente é mais que otimismo, é um mecanismo de autopreservação do cérebro. Para se proteger, ele distorce a realidade e cria mentiras que ele mesmo acredita, priorizando a sobrevivência em vez da verdade.",
+    "value": "R$ 24,90"
   },
   {
     "category": "Lançamentos",
-    "title": "Alimentação Baseada em Plantas",
-    "synopsis": "Alimentação Baseada em Plantas revela como adotar um estilo de vida mais saudável, sustentável e vibrante através do poder dos alimentos naturais. Entenda os benefícios físicos, mentais e ambientais de uma dieta vegetal. Um guia prático e inspirador para transformar sua relação com a comida — e com o planeta.",
-    "value": "R$ 39,90"
+    "title": "O que acontece se",
+    "synopsis": "Prepare-se para respostas científicas para perguntas que nunca deveriam ser feitas — mas que você vai amar ler. O Que Acontece Se....? Mistura física, biologia e um toque de deboche para transformar cenários absurdos em verdades desconfortáveis, fascinantes e levemente perturbadoras. Ciência séria, sarcasmo sério.",
+    "value": "R$ 34,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "O Espírito Ainda Mora Aqui",
+    "synopsis": "Um jornalista investiga uma casa abandonada envolta em histórias macabras. Sons, sombras e uma presença sinistra o cercam. Ao desvendar um passado sangrento, ele ativa uma maldição antiga que não deseja descanso. Entre medo e descoberta, a linha entre vida e morte se desfaz, aprisionando-o para sempre.",
+    "value": "R$ 45,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Mistérios Não Resolvidos Que Te Farão Duvidar de Tudo",
+    "synopsis": "Mistérios Não Resolvidos Que Te Farão Duvidar de Tudo leva você a uma jornada por enigmas históricos e atuais. De aviões desaparecidos, as Linhas de Nazca ao Manuscrito Voynich e a tragédia do Passo Dyatlov, o livro explora casos perturbadores que desafiam a lógica e a realidade, questionando tudo o que você conhece.",
+    "value": "R$ 25,90"
   },
   {
     "category": "Caixa de Ideias",
@@ -49,6 +61,12 @@
   },
   {
     "category": "Fitness",
+    "title": "Guia de Receitas Fitness",
+    "synopsis": "Descubra o sabor da alimentação saudável com o Guia de Receitas Fitness. Almoços nutritivos, jantares leves e receitas fit práticas que cabem na rotina. Ideal para quem busca saúde sem abrir mão do prazer de comer bem. Energia, sabor e equilíbrio em cada refeição. Cozinhe, transforme e evolua.",
+    "value": "R$ 49,90"
+  },
+  {
+    "category": "Fitness",
     "title": "Da Cama ao Sucesso: Como começar o dia com Energia e Clareza",
     "synopsis": "A manhã define o tom do seu dia inteiro. Uma rotina planejada reduz e aumenta foco. Hábitos matinais podem aumentar sua produtividade em até 30%. Curiosamente, 62% dos adultos relatam problemas de sono e rotina.",
     "value": "R$ 15,90"
@@ -78,6 +96,12 @@
     "value": "R$ 39,90"
   },
   {
+    "category": "Saúde e Nutrição",
+    "title": "Alimentação Baseada em Plantas",
+    "synopsis": "Alimentação Baseada em Plantas revela como adotar um estilo de vida mais saudável, sustentável e vibrante através do poder dos alimentos naturais. Entenda os benefícios físicos, mentais e ambientais de uma dieta vegetal. Um guia prático e inspirador para transformar sua relação com a comida — e com o planeta.",
+    "value": "R$ 39,90"
+  },
+  {
     "category": "Reborn",
     "title": "Meu Primeiro Reborn: Guia para Iniciantes",
     "synopsis": "Descubra o fascinante universo dos bebês reborn com este guia completo para iniciantes. Aprenda a escolher seu primeiro bebê com segurança, identificando autenticidade, materiais de qualidade e valores justos. Explore os tipos, estilos e detalhes anatômicos que tornam essas bonecas hiper-realistas tão especiais. Evite falsificações e ciladas, garantindo uma compra confiável e cheia de emoção. Este eBook é seu companheiro essencial para uma jornada acolhedora e informada no mundo reborn.",
@@ -100,6 +124,12 @@
     "title": "Guia do iniciante em vendas no WhatsApp",
     "synopsis": "Olá, seja bem-vindo a esse guia. Na verdade, esse é um pequeno checklist para quem deseja começar a vender atraves do whatsapp.",
     "value": "R$ 19,90"
+  },
+  {
+    "category": "Tecnologia",
+    "title": "Os Segredos do Metaverso",
+    "synopsis": "Mergulhe em Os Segredos do Metaverso, uma jornada reveladora pelo universo digital que está moldando o futuro. Descubra como realidades virtuais, avatares e economias digitais estão transformando a forma como vivemos, trabalhamos e nos conectamos. Prepare-se para entender — e dominar — o próximo grande salto da humanidade.",
+    "value": "R$ 39,90"
   },
   {
     "category": "Terror",
