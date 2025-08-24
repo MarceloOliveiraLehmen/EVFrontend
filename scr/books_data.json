@@ -1,30 +1,174 @@
 [
   {
     "category": "Lançamentos",
+    "title": "SEGREDOS DA CELA 12",
+    "synopsis": "Quando um detento é encontrado morto na misteriosa Cela 12, o detetive Raul Mendonça mergulha em um jogo perigoso de mentiras, segredos e corrupção. Cada pista o leva mais fundo em uma rede que envolve policiais, criminosos e políticos. Ninguém é inocente… e todos têm algo a esconder.",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Desvende os segredos que moldaram a história",
+    "synopsis": "Desvende os segredos que moldaram a história. De códigos enigmáticos a sociedades clandestinas, este eBook revela mistérios por trás de símbolos, rituais e poderes ocultos que ecoam no mundo moderno. Uma jornada para mentes curiosas, entre fatos históricos e teorias provocadoras.",
+    "value":"R$ 34,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Silêncio no asilo",
+    "synopsis": "Em um asilo abandonado, vozes esquecidas ainda ecoam. Uma jovem jornalista investiga o passado sombrio do local, mas descobre que os antigos pacientes nunca partiram. Cada corredor revela segredos que não deveriam ser ouvidos. E no silêncio... algo observa, esperando a próxima vítima.",
+    "value": "R$ 29,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Do Zero ao Topo em 12 Meses",
+    "synopsis": "Em apenas 12 meses, é possível transformar uma ideia simples em um negócio de sucesso. “Do Zero ao Topo em 12 Meses” revela estratégias práticas, mentalidade vencedora e passos claros para acelerar sua carreira ou empresa. Com métodos testados e exemplos inspiradores, este guia é o mapa para alcançar resultados extraordinários em tempo recorde.",
+    "value":"R$ 19,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Checklist do Corpo Saudável",
+    "synopsis": "Transforme sua rotina com hábitos simples e poderosos. Este checklist prático mostra 10 ações diárias que colocam sua saúde no modo automático. Menos esforço, mais vitalidade, corpo equilibrado e mente afiada. O guia que seu corpo vai agradecer.",
+    "value":"R$ 19,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Mindfulness Ativista",
+    "synopsis": "Mindfulness Ativista ensina como unir presença plena à ação concreta. Descubra técnicas de atenção consciente, planejamento estratégico e execução focada para transformar intenções em resultados palpáveis. Aprenda a controlar a mente, agir com clareza e gerar impacto real na vida pessoal, carreira e projetos significativos.",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Tecnologias que Mudaram o Mundo e Começaram como Piada",
+    "synopsis": "Ideias descartadas, projetos paralelos e inovações desacreditadas que se tornaram pilares da tecnologia moderna. Este eBook revela 30 cases de fracassos que desafiaram o status quo, mostrando como visão e persistência transformam piadas em soluções revolucionárias que redefiniram indústrias inteiras e o futuro dos negócios globais.",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Curiosidades",
+    "title": "Batalhas que Mudaram o Mundo",
+    "synopsis": "Prepare-se para desenterrar conflitos épicos que a história oficial esqueceu! De exércitos que perderam para pássaros a impérios desfeitos em minutos, este eBook revela as guerras mais bizarras, brutais e decisivas que moldaram o mundo, mas que raramente são contadas. Uma jornada irônica e surpreendente pelos bastidores da história militar, onde a verdade é mais estranha que a ficção.",
+    "value":"R$ 35,90"
+  },
+  {
+    "category": "Pet Friendly",
+    "title": "Se Meu Pet Fosse Terapeuta, Eu Já Tava Curado",
+    "synopsis": "Descubra como o comportamento dos animais pode ensinar lições poderosas sobre a vida, amor e resiliência. Entre risadas e reflexões, este eBook mostra que nossos pets são mestres disfarçados de terapeutas, capazes de curar com presença, lealdade e pura sabedoria instintiva.",
+    "value":"R$ 24,90"
+  },
+  {
+    "category": "Pocket",
+    "title": "Respira. Agora Age.",
+    "synopsis": "Procrastinar é adiar o inevitável, mas o custo é alto: oportunidades perdidas e metas eternamente postergadas. Respira. Agora Age. é um pocket guia prático em 3 passos diretos para tirar ideias do papel e entrar em ação hoje. Simples, rápido e sem desculpas.",
+    "value":"R$ 15,90"
+  },
+  {
+    "category": "Policial e Investigação",
+    "title": "Roubo a Banco",
+    "synopsis": "Quando um assalto cinematográfico acontece no coração financeiro da cidade, a investigação cai nas mãos do detetive Arthur Montalban — meticuloso, obcecado por detalhes e avesso a clichês. Nada bate com o modus operandi comum: execução perfeita, zero pistas, nenhum alarme disparado. A cada pista encontrada, uma nova camada de mistério se abre, revelando que o crime pode ser apenas a ponta de um jogo muito maior. Nesta trama, a fronteira entre mocinhos e vilões se desfaz, e a verdade é mais perigosa que a mentira.",
+    "value":"R$ 35,90"
+  },
+  {
+    "category": "Divertidamente",
+    "title": "A NASA Precisa Estudar o Brasileiro",
+    "synopsis": "Brasileiro não dá jeitinho, ele reinventa a física. De antena de garrafa pet a chuveiro turbinado com arame, este livro é um dossiê das gambiarras mais criativas já vistas na galáxia. Se a NASA quer inovação, é melhor estudar o brasileiro. Um manual de sobrevivência em alto nível.",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Pet Friendly",
+    "title": "O Poder Curativo dos Pets",
+    "synopsis": "Este eBook revela como a convivência com pets vai muito além da companhia. Cães, gatos e outros animais possuem um poder curativo capaz de transformar emoções, aliviar estresse, combater a solidão e promover saúde mental e física. Um mergulho emocionante no amor incondicional que cura e inspira.",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Carreira e Negócios",
+    "title": "A Arte da Reunião de 15 Minutos",
+    "synopsis": "Reuniões longas matam produtividade. Este guia ensina como transformar encontros corporativos em sessões de alto impacto em apenas 15 minutos. Estratégias práticas, exemplos reais e técnicas de gestão de tempo que aumentam foco, engajamento e resultados. Seja líder ou colaborador, aprenda a dominar a reunião ágil e eficiente.",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Arquivo X",
+    "title": "Projeto Pandora",
+    "synopsis": "Quando cientistas despertam um vírus ancestral em busca de avanços médicos, não esperam desencadear uma mutação que transforma humanos em portadores de habilidades sobrenaturais. O “Projeto Pandora” sai do controle, e a humanidade encara uma nova era: ciência, poder e sobrevivência em um mundo redesenhado pelo inesperado.",
+    "value":"R$ 35,90"
+  },
+  {
+    "category": "Policial e Investigação",
+    "title": "Casos que o CSI Não Resolveria",
+    "synopsis": "Nem todos os crimes têm solução. Alguns desafiam a lógica, resistem à ciência forense e permanecem como feridas abertas na história. Este livro reúne seis casos tão enigmáticos que nem os melhores peritos conseguiriam explicar. Prepare-se para mergulhar em mistérios reais e fictícios, onde a verdade se esconde nas sombras — e talvez nunca seja encontrada.",
+    "value":"R$ 35,90"
+  },
+  {
+    "category": "Curiosidades",
+    "title": "Carta Secreta de Dom Pedro I",
+    "synopsis": "Em meio às turbulências do Império, surge uma carta nunca entregue de Dom Pedro I. Entre dilemas políticos e paixões pessoais, o documento revela segredos capazes de mudar o destino do Brasil. Um pocket provocador que mistura história real e ficção, expondo um imperador humano, vulnerável e enigmático.",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Fitness",
+    "title": "Treino de 7 Minutos",
+    "synopsis": "Descubra o poder do treino HIIT de 7 minutos que desafia qualquer rotina tradicional de academia. Baseado em ciência do exercício, este método otimiza queima de gordura, resistência e força em tempo recorde. Curto, intenso e devastador: sua performance nunca mais será a mesma.",
+    "value":"R$ 25,90"
+  },
+  {
+    "category": "Pet Friendly",
+    "title": "Guia Prático de Saúde do Seu Pet",
+    "synopsis": "Um manual essencial para tutores que desejam garantir qualidade de vida aos seus animais. Com orientações claras sobre alimentação, higiene, prevenção de doenças e cuidados diários, este guia prático oferece soluções simples e eficazes para manter seu pet saudável, ativo e feliz em todas as fases da vida.",
+    "value":"R$ 25,90"
+  },
+  {
+    "category": "Curiosidades",
+    "title": "Top 5 Curiosidades por Continente",
+    "synopsis": "Prepare-se para uma jornada fascinante pelos cantos mais inusitados do nosso planeta! “Top 5 Curiosidades por Continente” é o seu passaporte para descobrir fatos surpreendentes e histórias incríveis que você nunca imaginou. De lagos que explodem a cidades que desaparecem, cada página revela os segredos mais bem guardados da Terra. Uma leitura rápida, informativa e divertida que vai mudar sua forma de ver o mundo!",
+    "value":"R$ 19,90"
+  },
+  {
+    "category": "Reborn",
+    "title": "Como Criar sua Primeira Coleção Reborn",
+    "synopsis": "Descubra o universo encantador dos bebês reborn com este guia essencial. Aprenda passo a passo a iniciar e organizar sua coleção com confiança, carinho e organização. Desde a escolha da primeira peça até os cuidados e a exposição, este livro é seu companheiro perfeito para mergulhar nesse hobby fascinante e gratificante.",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Curiosidades",
+    "title": "100 Fatos que Desafiam o Bom Senso",
+    "synopsis": "Prepare-se para ter sua mente explodida! Este eBook é um convite para desconstruir tudo o que você achava que sabia. Com 100 fatos surpreendentes, contraintuitivos e comprováveis, sua visão de mundo será virada de cabeça para baixo. Uma leitura ágil e provocadora que vai te fazer questionar a realidade e compartilhar cada descoberta.",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Policial e Investigação",
+    "title": "Assassinatos que Mudaram as Leis",
+    "synopsis": "Um corpo encontrado. Uma investigação meticulosa. Uma lei transformada. Este livro revela crimes brutais que desafiaram a justiça e forçaram a criação de novas leis. Com detalhes forenses e narrativas envolventes, você descobrirá como sangue, provas e erros judiciais reescreveram a história do direito. A verdade está nos detalhes—e eles estão aqui.",
+    "value":"R$ 45,90"
+  },
+  {
+    "category": "Curiosidades",
     "title": "10 coisas que você usa errado até hoje",
     "synopsis": "Você usa dezenas de objetos todos os dias — e provavelmente erra na maioria. Este livro revela 10 itens comuns cujo uso real é bem diferente do que você imagina. Descubra suas funções originais, entenda como foram deturpadas e aprenda, de uma vez, a usá-los direito.",
     "value": "R$ 15,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Reborn",
+    "title": "Cuidando do Meu Reborn",
+    "synopsis": "Descubra o guia essencial para cuidar do seu bebê reborn com amor e dedicação. Este manual prático oferece dicas valiosas sobre higiene, conservação, vestuário e armazenamento, garantindo que seu reborn permaneça sempre impecável e cheio de vida. Aprenda a proteger essa preciosidade e a desfrutar de cada momento com seu companheiro especial.",
+    "value": "R$ 45,90"
+  },
+  {
+    "category": "Divertidamente",
     "title": "Guia da Autoilusão Consciente",
     "synopsis": "Você se engana para sobreviver, repetindo 'vai dar certo' mesmo sem ter certeza? Essa autoilusão consciente é mais que otimismo, é um mecanismo de autopreservação do cérebro. Para se proteger, ele distorce a realidade e cria mentiras que ele mesmo acredita, priorizando a sobrevivência em vez da verdade.",
     "value": "R$ 24,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Curiosidades",
     "title": "O que acontece se",
     "synopsis": "Prepare-se para respostas científicas para perguntas que nunca deveriam ser feitas — mas que você vai amar ler. O Que Acontece Se....? Mistura física, biologia e um toque de deboche para transformar cenários absurdos em verdades desconfortáveis, fascinantes e levemente perturbadoras. Ciência séria, sarcasmo sério.",
     "value": "R$ 34,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Terror",
     "title": "O Espírito Ainda Mora Aqui",
     "synopsis": "Um jornalista investiga uma casa abandonada envolta em histórias macabras. Sons, sombras e uma presença sinistra o cercam. Ao desvendar um passado sangrento, ele ativa uma maldição antiga que não deseja descanso. Entre medo e descoberta, a linha entre vida e morte se desfaz, aprisionando-o para sempre.",
     "value": "R$ 45,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Arquivo X",
     "title": "Mistérios Não Resolvidos Que Te Farão Duvidar de Tudo",
     "synopsis": "Mistérios Não Resolvidos Que Te Farão Duvidar de Tudo leva você a uma jornada por enigmas históricos e atuais. De aviões desaparecidos, as Linhas de Nazca ao Manuscrito Voynich e a tragédia do Passo Dyatlov, o livro explora casos perturbadores que desafiam a lógica e a realidade, questionando tudo o que você conhece.",
     "value": "R$ 25,90"
