@@ -51,7 +51,7 @@ const bookCovers = (title) => {
     .replace(/[óòõôö]/g, 'o')
     .replace(/[úùûü]/g, 'u')
     .replace(/[ç]/g, 'c')
-    .replace(/[:]/g, '')
+    .replace(/[.:,!?]/g, '')
     .replace(/ /g, '-');
   return `/assets/capas/${normalizedTitle}.png`;
 }
