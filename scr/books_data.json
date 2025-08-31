@@ -1,42 +1,102 @@
 [
   {
     "category": "Lançamentos",
+    "title": "Como Discutir e Vencer Debates Usando Lógica de Criança",
+    "synopsis": "Cansado de debates complexos? Descubra o poder da lógica infantil! Este eBook irônico e perspicaz revela como a simplicidade e a sinceridade das crianças podem desarmar os argumentos mais elaborados dos adultos, transformando a ingenuidade em sua arma secreta para vencer qualquer discussão.",
+    "value":"R$ 15,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Desbugando a Mente Ansiosa",
+    "synopsis": "Este guia direto e acolhedor revela como entender, controlar e reprogramar a mente ansiosa. Com explicações simples, exercícios práticos e técnicas de respiração, você vai aprender a transformar pensamentos acelerados em clareza. Um manual moderno para desbugar a ansiedade e retomar o comando da própria vida.",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Ansiedade? Relaxa. Tá Todo Mundo Pior Que Você",
+    "synopsis": "Este guia debochado mistura humor, ironia e dicas práticas para sobreviver à mente acelerada. Aprenda a rir das suas próprias preocupações, desbugar pensamentos e encarar a vida ansiosa com leveza, sem se levar tão a sério.",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Fé e Ciência: A Conexão Que Você Precisa Entender",
+    "synopsis": "Neste eBook, desvende a surpreendente conexão entre fé e ciência. Longe de serem rivais, explore como esses campos se complementam, revelando novas perspectivas sobre o mundo e a vida. Uma leitura essencial para quem busca respostas no cruzamento entre razão e espiritualidade.",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Desafio 30 dias sem likes",
+    "synopsis": "Neste relato cru e íntimo, mergulhe na jornada de um detox digital radical. Trinta dias sem a validação dos likes, sem a distração das notificações, confrontando o vazio deixado pela ausência das redes. Uma imersão profunda na redescoberta do eu, da autenticidade e da vida real, desvendando as camadas da dependência digital e a dolorosa, porém libertadora, ruptura com o efêmero. Uma provocação à reflexão sobre o que realmente importa.",
+    "value":"R$ 15,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Treinamento Seguno na Gravidez",
+    "synopsis": "Descubra um guia acolhedor e inspirador para gestantes que desejam manter-se ativas e saudáveis. Este e-book desmistifica o treinamento físico na gravidez, abordando musculação, exercícios funcionais, natação e fortalecimento do assoalho pélvico. Com informações práticas e uma linguagem humanizada, ele oferece o conhecimento necessário para uma jornada gestacional mais forte, consciente e plena, preparando o corpo e a mente para a maternidade com segurança e bem-estar.",
+    "value":"R$ 34,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Fotografia Reborn: Como Encantar com Imagens",
+    "synopsis": "Neste guia prático, desvende o poder da imagem para realçar a magia dos bebês reborn. Aprenda a capturar a essência, o realismo e o encanto dessas obras de arte, transformando simples fotos em narrativas visuais que eternizam momentos afetivos e impulsionam vendas. Seja para colecionadores, artistas ou vendedores, este eBook é a chave para fotografias que verdadeiramente encantam e conectam.",
+    "value":"R$ 35,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Moda Reborn",
+    "synopsis": "Descubra o universo encantador da moda reborn! Este guia afetivo e visual oferece tudo o que você precisa para vestir seu bebê reborn com estilo e realismo. Aprenda a escolher, combinar e cuidar das roupinhas e acessórios, fortalecendo o vínculo e aprimorando a beleza do seu reborn. Uma jornada de carinho e criatividade para colecionadores e entusiastas.",
+    "value":"R$ 35,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Força sem Limites",
+    "synopsis": "Este eBook é um guia essencial para cadeirantes com sensibilidade até T6 que buscam transformar sua qualidade de vida através do treino de força adaptado. Abordamos a anatomia pós-lesão, princípios fundamentais do treinamento, exercícios específicos para membros superiores e tronco, e a importância do cardio para a autonomia. Sem clichês, com foco em técnicas e motivação real, mostramos como halteres, elásticos e um banco de supino podem ser ferramentas poderosas para saúde física, emocional e social.",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Do Hobby ao Negócio",
+    "synopsis": "Transforme sua paixão por bebês reborn em um negócio próspero! Este guia prático oferece estratégias para estruturar sua produção, precificar com segurança, divulgar sua arte e fidelizar clientes. Descubra como o talento e o amor podem gerar renda real, construindo uma marca sustentável no mercado renascido.",
+    "value": "R$ 35,90"
+  },
+  {
+    "category": "Policial e Investigação",
     "title": "SEGREDOS DA CELA 12",
     "synopsis": "Quando um detento é encontrado morto na misteriosa Cela 12, o detetive Raul Mendonça mergulha em um jogo perigoso de mentiras, segredos e corrupção. Cada pista o leva mais fundo em uma rede que envolve policiais, criminosos e políticos. Ninguém é inocente… e todos têm algo a esconder.",
     "value":"R$ 29,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Curiosidades",
     "title": "Desvende os segredos que moldaram a história",
     "synopsis": "Desvende os segredos que moldaram a história. De códigos enigmáticos a sociedades clandestinas, este eBook revela mistérios por trás de símbolos, rituais e poderes ocultos que ecoam no mundo moderno. Uma jornada para mentes curiosas, entre fatos históricos e teorias provocadoras.",
     "value":"R$ 34,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Terror",
     "title": "Silêncio no asilo",
     "synopsis": "Em um asilo abandonado, vozes esquecidas ainda ecoam. Uma jovem jornalista investiga o passado sombrio do local, mas descobre que os antigos pacientes nunca partiram. Cada corredor revela segredos que não deveriam ser ouvidos. E no silêncio... algo observa, esperando a próxima vítima.",
     "value": "R$ 29,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Carreira e Negócios",
     "title": "Do Zero ao Topo em 12 Meses",
     "synopsis": "Em apenas 12 meses, é possível transformar uma ideia simples em um negócio de sucesso. “Do Zero ao Topo em 12 Meses” revela estratégias práticas, mentalidade vencedora e passos claros para acelerar sua carreira ou empresa. Com métodos testados e exemplos inspiradores, este guia é o mapa para alcançar resultados extraordinários em tempo recorde.",
     "value":"R$ 19,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Pocket",
     "title": "Checklist do Corpo Saudável",
     "synopsis": "Transforme sua rotina com hábitos simples e poderosos. Este checklist prático mostra 10 ações diárias que colocam sua saúde no modo automático. Menos esforço, mais vitalidade, corpo equilibrado e mente afiada. O guia que seu corpo vai agradecer.",
     "value":"R$ 19,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Mente Resiliente",
     "title": "Mindfulness Ativista",
     "synopsis": "Mindfulness Ativista ensina como unir presença plena à ação concreta. Descubra técnicas de atenção consciente, planejamento estratégico e execução focada para transformar intenções em resultados palpáveis. Aprenda a controlar a mente, agir com clareza e gerar impacto real na vida pessoal, carreira e projetos significativos.",
     "value":"R$ 29,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Tecnologia",
     "title": "Tecnologias que Mudaram o Mundo e Começaram como Piada",
     "synopsis": "Ideias descartadas, projetos paralelos e inovações desacreditadas que se tornaram pilares da tecnologia moderna. Este eBook revela 30 cases de fracassos que desafiaram o status quo, mostrando como visão e persistência transformam piadas em soluções revolucionárias que redefiniram indústrias inteiras e o futuro dos negócios globais.",
     "value":"R$ 29,90"
@@ -259,7 +319,7 @@
   },
   {
     "category": "Curiosidades",
-    "title": "Sabedoria Inutil",
+    "title": "Sabedoria Inútil",
     "synopsis": "Um mergulho divertido e inesperado em fatos curiosos, estranhos ou aparentemente irrelevantes que escondem um valor oculto. Neste pocket, você vai rir, refletir e talvez repensar o que realmente é útil. Afinal, quem decide o que vale a pena saber?",
     "value": "R$ 29,90"
   },
