@@ -1,36 +1,60 @@
 [
   {
     "category": "Lançamentos",
+    "title": "50 Receitas de Hamburgueres Caseiros para Vender",
+    "synopsis": "Descubra o universo dos hambúrgueres artesanais e transforme sua paixão pela culinária em um negócio lucrativo. Este ebook apresenta 50 receitas exclusivas, desde clássicos reinventados até criações inovadoras, todas desenvolvidas para conquistar paladares e gerar renda. Cada receita inclui ingredientes detalhados, modo de preparo passo a passo e três molhos especiais para diferenciação no mercado.",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "31 Dias Conhecendo os Atributos de Deus",
+    "synopsis": "Seja bem-vindo a esta jornada de 31 dias para conhecer mais profundamente a natureza de Deus. Nesta apostila, você encontrará meditações diárias que revelam diferentes aspectos do caráter divino, convidando-o a uma intimidade crescente com o Criador.",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "A Fragmentação da Pangeia e a Formação dos Continentes",
+    "synopsis": "Descobertas recentes revolucionam nossa compreensão sobre a separação dos continentes, revelando que este processo pode ter ocorrido até 20 vezes mais rapidamente do que as estimativas tradicionais sugeriam.",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Como Tirar Fotos que Vendem",
+    "synopsis": "Um guia prático para confeiteiros que querem destacar seus produtos nas redes sociais e aumentar suas vendas",
+    "value":"R$ 15,90"
+  },
+  {
+    "category": "Tecnologia",
     "title": "Bitcoin: A Moeda do Futuro",
     "synopsis": "Neste guia, você aprenderá tudo sobre Bitcoin (BTC) e criptomoeda, como eles funcionam, por que eles existem e que tipo de tecnologia está por trás do Bitcoin.",
     "value":"R$ 29,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Mente Resiliente",
     "title": "Tratamento Natural para Enxaqueca",
     "synopsis": "Para aqueles que sofrem de enxaquecas farão qualquer coisa para um alívio rápido e eficaz.",
     "value":"R$ 34,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Carreira e Negócios",
     "title": "Ganhe Dinheiro com Camisetas",
     "synopsis": "Descubra os segredos para ganhar dinheiro criando designs e vendendo camisetas!",
     "value":"R$ 15,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Mapa da Mina",
     "title": "Dicas de Economia no Casamento",
     "synopsis": "Seria mais proveitoso ter um tipo de tutorial que ajude os casais a realizarem a jornada do matrimônio sem os solavancos e arranhões que geralmente envolve. No entanto, é muito popular perceber que a maior parte das pessoas aprende com suas próprias tentativas ou com as experiências de outras pessoas.",
     "value":"R$ 19,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Fitness",
     "title": "Alongamento Turbo",
     "synopsis": "Desperte seu corpo e mente com uma rotina prática de alongamentos que transformarão suas manhãs em apenas 5 minutos. Este guia completo apresenta uma sequência de exercícios cuidadosamente elaborados para aliviar a rigidez matinal, melhorar sua postura e iniciar o dia com mais energia e foco. Ideal para pessoas de todas as idades que desejam incorporar um hábito saudável à rotina diária, mesmo com pouco tempo disponível.",
     "value":"R$ 29,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Pet Friendly",
     "title": "Alimentos Caseiros para Pets",
     "synopsis": "É um bem conhecido fato de que a comida caseira é sempre uma opção mais saudável para animais de estimação, quando comparada à comida embalada no mercado. Os riscos crescentes para a saúde dos animais de estimação fizeram com que seus donos se mantivessem confinados em alimentos para animais comerciais.",
     "value":"R$ 19,90"
