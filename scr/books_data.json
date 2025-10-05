@@ -1,24 +1,42 @@
 [
   {
     "category": "Lançamentos",
+    "title": "Manual Mãe de Pet",
+    "synopsis": "Bem-vinda ao Manual da Mãe de Pet, um guia completo e amoroso para mulheres que enxergam seus cães como verdadeiros filhos. Este e-book foi criado para te ajudar a cuidar do seu pequeno com todo o carinho e dedicação que ele merece. Aqui você encontrará desde orientações sobre alimentação e higiene até primeiros socorros e enriquecimento ambiental, tudo em uma linguagem simples e acolhedora. Nosso objetivo é fortalecer ainda mais o vínculo especial entre você e seu filho de quatro patas, porque quem ama, cuida como mãe!",
+    "value": "R$ 29,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Renda Extra",
+    "synopsis": "Descubra como transformar suas habilidades e paixões em lucro! Este e-book é o guia definitivo para quem busca liberdade financeira, mostrando que a renda extra está ao seu alcance. Aprenda a identificar seus talentos, criar produtos/serviços e usar estratégias digitais e reais para prosperar. Comece hoje a construir seu futuro financeiro!",
+    "value":"R$ 29,90"
+  },
+  {
+    "category": "Lançamentos",
+    "title": "Secretária do Futuro",
+    "synopsis": "Prepare-se para um futuro onde sua assistente virtual não apenas organiza sua vida, mas também domina o mundo (e talvez seu senso de humor). Este eBook irônico e provocador explora a ascensão dos “bots-secretárias” que nunca esquecem nada, prometendo produtividade infinita, mas levantando questões sobre o burnout digital, o humor algorítmico e o poder crescente da IA em nossas vidas. Uma visão divertida e embasada de como a inteligência artificial está redefinindo o trabalho, as relações e até mesmo quem está no comando.",
+    "value":"R$ 15,90"
+  },
+  {
+    "category": "Mapa da Mina",
     "title": "50 Receitas de Hamburgueres Caseiros para Vender",
     "synopsis": "Descubra o universo dos hambúrgueres artesanais e transforme sua paixão pela culinária em um negócio lucrativo. Este ebook apresenta 50 receitas exclusivas, desde clássicos reinventados até criações inovadoras, todas desenvolvidas para conquistar paladares e gerar renda. Cada receita inclui ingredientes detalhados, modo de preparo passo a passo e três molhos especiais para diferenciação no mercado.",
     "value":"R$ 29,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Espiritualidade",
     "title": "31 Dias Conhecendo os Atributos de Deus",
     "synopsis": "Seja bem-vindo a esta jornada de 31 dias para conhecer mais profundamente a natureza de Deus. Nesta apostila, você encontrará meditações diárias que revelam diferentes aspectos do caráter divino, convidando-o a uma intimidade crescente com o Criador.",
     "value":"R$ 29,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Caixa de Ideias",
     "title": "A Fragmentação da Pangeia e a Formação dos Continentes",
     "synopsis": "Descobertas recentes revolucionam nossa compreensão sobre a separação dos continentes, revelando que este processo pode ter ocorrido até 20 vezes mais rapidamente do que as estimativas tradicionais sugeriam.",
     "value":"R$ 29,90"
   },
   {
-    "category": "Lançamentos",
+    "category": "Carreira e Negócios",
     "title": "Como Tirar Fotos que Vendem",
     "synopsis": "Um guia prático para confeiteiros que querem destacar seus produtos nas redes sociais e aumentar suas vendas",
     "value":"R$ 15,90"
